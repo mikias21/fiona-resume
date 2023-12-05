@@ -1,0 +1,41 @@
+.work_exp{
+    margin-left: 1.8rem;
+}
+
+.work_exp_date_loc{
+    display: flex;
+    align-items: center;
+}
+
+.work_exp_date_loc p{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(41, 38, 38);
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.work_exp_date_loc p:nth-of-type(1){
+    margin-right: 2rem;
+}
+
+.work_exp_title_company p{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.work_exp_title_company p:nth-of-type(1){
+    font-weight: 700;
+}
+
+.work_exp_title_company p:nth-of-type(2){
+    color: #4834d4;
+    margin-bottom: 5px;
+}
+
+.work_exp_content ul{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    list-style-type: square;
+    margin-left: 1rem;
+}

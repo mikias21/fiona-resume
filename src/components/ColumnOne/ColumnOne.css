@@ -1,0 +1,102 @@
+.col1_name {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fira Sans', sans-serif;
+    border: 3px solid #4834d4;
+    padding: 2rem;
+}
+
+.col1_contact_info{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.col1_contact_info_p1{
+    margin-right: 1rem;
+}
+
+.col1_contact_info ul{
+    list-style: none;
+}
+
+.col1_contact_info ul li{
+    margin-bottom: 5px;
+}
+
+.col1_name p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.col1_profile,
+.col1_work,
+.col1_edu,
+.col1_soft_skills {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 2rem;
+}
+
+.col1_profile_title,
+.col1_work_title,
+.col1_edu_title,
+.col1_soft_skills_title {
+    margin-bottom: 1rem;
+}
+
+.col1_profile_title,
+.col1_work_title,
+.col1_edu_title,
+.col1_soft_skills_title {
+    display: flex;
+    align-items: center;
+}
+
+.col1_profile_title p,
+.col1_work_title p,
+.col1_edu_title p,
+.col1_soft_skills_title p {
+    font-size: 18px;
+    font-family: 'Fira Sans', sans-serif;
+    color: #4834d4;
+    font-weight: 400;
+}
+
+.col1_profile_title_icon,
+.col1_experience_title_icon,
+.col1_softskill_title_icon,
+.col1_edu_title_icon {
+    font-size: 18px;
+    color: #4834d4;
+    margin-right: 10px;
+}
+
+.col1_profile_content p {
+    font-size: 14px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    margin-left: 1.8rem;
+}
+
+.col1_soft_skills_content {
+    margin-left: 1.8rem;
+}
+
+.col1_soft_skills_content p {
+    font-size: 14px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+}

@@ -1,0 +1,93 @@
+.col2{
+    padding: 38px;
+}
+
+.col2_main_skills_title, .col2_personal_projects_title, .col2_certificates_title{
+    font-size: 18px;
+    font-family: 'Fira Sans', sans-serif;
+    color: #4834d4;
+    font-weight: 400;
+}
+
+.col2_main_skills_subcontent{
+    margin-left: 1.8rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+}
+
+.col2_main_skills_subcontent p:nth-of-type(1){
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.col2_main_skills_subcontent p:nth-of-type(2){
+    font-size: 13px;
+}
+
+.skills_last{
+    margin-bottom: 2rem;
+}
+
+.col2_main_skills_title_set, .col2_projects_title_set, .col2_certificates_title_set{
+    display: flex;
+}
+
+.col2_main_skills_icon, .col2_projects_icon, .col2_certificates_icon{
+    font-size: 18px;
+    color: #4834d4;
+    margin-right: 10px;
+}
+
+.col2_personal_projects_subcontent{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.col2_personal_projects_subcontent p:nth-child(1){
+    font-weight: 700;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.col2_personal_projects_subcontent ul{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    list-style-type: square;
+    margin-left: 1rem;
+}
+
+.col2_personal_projects_link{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+}
+
+.project_last{
+    margin-bottom: 2rem;
+}
+
+.col2_certificates_subcontent{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.col2_certificates_date{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.col2_certificate_title{
+    font-weight: 700;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.col2_certificates_issuer{
+    color: #4834d4;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 15px;
+}
