@@ -24,8 +24,12 @@
     font-weight: 400;
 }
 
+.email{
+    font-size: 10px;
+}
+
 .col1_contact_info_p1{
-    margin-right: 1rem;
+    margin-right: 8rem;
 }
 
 .col1_contact_info ul{

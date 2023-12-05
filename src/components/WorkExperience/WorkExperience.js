@@ -5,7 +5,7 @@ const WorkExperience = () => {
     <div className="work_exp">
       <div className="work_exp_date_loc">
         <p>
-          <small>2022 / 10 - 2023 / 05 </small>
+          <small>2016 / 10 - 2021 / 05 </small>
         </p>
         <p>
           <small>China, Shanghai</small>

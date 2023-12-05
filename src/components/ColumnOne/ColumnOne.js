@@ -16,14 +16,14 @@ const ColumnOne = ({ className }) => {
       {/* Name */}
       <div className="col1_name_contact_container">
         <div className="col1_name">
-          <p>Mikias Berhanu</p>
+          <p>李艺菲 / Fiona Li</p>
         </div>
         <div className="col1_contact_info">
           <div className="col1_contact_info_p1">
             <ul>
               <li>
                 <p>
-                  <small>Email: hello@email.com</small>
+                  <small className="email">Email: maggie.li67@yahoo.com</small>
                 </p>
               </li>
               <li>
@@ -33,7 +33,7 @@ const ColumnOne = ({ className }) => {
               </li>
             </ul>
           </div>
-          <div className="col1_contact_info_p2">
+          {/* <div className="col1_contact_info_p2">
             <ul>
               <li>
                 <p>
@@ -46,7 +46,7 @@ const ColumnOne = ({ className }) => {
                 </p>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
       </div>
       {/* Profile */}
@@ -57,16 +57,11 @@ const ColumnOne = ({ className }) => {
         </div>
         <div className="col1_profile_content">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-            velit repudiandae praesentium cupiditate officiis deleniti ullam.
-            Architecto perspiciatis, tempora dicta possimus unde sint
-            accusantium maiores fuga necessitatibus illo sunt quibusdam.
-            Architecto perspiciatis, tempora dicta possimus unde sint
-            accusantium maiores fuga necessitatibus illo sunt quibusdam.
-            Architecto perspiciatis, tempora dicta possimus unde sint
-            accusantium maiores fuga necessitatibus illo sunt quibusdam.
-            Architecto perspiciatis, tempora dicta possimus unde sint
-            accusantium maiores fuga necessitatibus illo sunt quibusdam.
+            I'm 李艺菲 / Fiona Li a dedicated and highly skilled professional in
+            the field of managment, specializing in tourism and hospitality.
+            Holding a Bachelor's degree in Diplomacy from Xi'an International
+            Studies University and a Master's degree in Tourism & Hospitality
+            from Edinburgh Napier University.
           </p>
         </div>
       </div>
